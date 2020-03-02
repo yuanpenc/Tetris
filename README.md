@@ -16,7 +16,7 @@ Note that this design for Tetris is somewhat simplified, though the end result i
 * More Ideas
 
 For further details, please visit.
-### [step-by-step tutorial](https://github.com/yuanpenc/Yuanpeng.github.io/blob/master/progress%20report/progress%20report%201(9.28).md)
+### [step-by-step tutorial](http://www.kosbie.net/cmu/fall-19/15-112/notes/notes-tetris/2_1_DesignOverview.html)
 
 ## Game Overview
 
