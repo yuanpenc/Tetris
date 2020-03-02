@@ -28,7 +28,7 @@ For further details, please visit.
 </p>
 
 ## Let's Do It
-Note: Before you refer and run this code, download these package to make sure this program runing successfully.
+Note: Before you refer and run this code, download these packages to make sure this program runing successfully.
 * cmu_112_graphics.py
 * cs112_f19_week7_linter.py
 
