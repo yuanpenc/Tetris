@@ -4,6 +4,7 @@
 Note that this design for Tetris is somewhat simplified, though the end result is indeed a reasonably functional game of Tetris. Also, the techniques used to create this game can be used to create many other popular arcade games.
 Achieved by Python.
 
+
 ## Content
 * Prerequisites (Python, Tkinter, and Event-Based Animations)
 * Building Tetris
